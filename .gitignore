@@ -1,2 +1,3 @@
 # file/folder to ignore
 .DS_Store
+/Dummy
